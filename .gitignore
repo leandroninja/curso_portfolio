@@ -1,0 +1,16 @@
+# Arquivos temporários
+*.tmp
+*.bak
+~$*
+
+# Excel temporário
+*.~lock.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
